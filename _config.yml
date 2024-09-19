@@ -21,7 +21,7 @@ repository               : "ArrowNF98lioc/ArrowNF98lioc.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : https://github.com/ArrowNF98lioc/ArrowNF98lioc.github.io/blob/master/assets/qyh_profile.png
+  avatar           : https://arrownf98lioc.github.io/assets/qyh_profile.png
   name             : "Yuhe Qin"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
