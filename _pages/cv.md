@@ -16,7 +16,7 @@ Education
 Skills
 ======
 * Programming: Python
-* Software: Latex
+* Software: $Latex$
   
 Standardized Tests
 ======
