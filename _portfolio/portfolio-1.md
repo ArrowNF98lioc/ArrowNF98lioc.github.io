@@ -1,6 +1,6 @@
 ---
 title: "SPIRES 2024"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/spires2024.png'>"
+excerpt: "Participated in SPIRES 2024 organized by the University of Oxford<br/><img src='/images/spires2024.png'>"
 collection: portfolio
 ---
 
