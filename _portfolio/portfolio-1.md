@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "SPIRES 2024"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/spires2024.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+From August 5 to 10, 2024, Professor Yifei Zhu led our research group to participate in SPIRES 2024 organized by the Centre for Topological Data Analysis at the Mathematical Institute, University of Oxford, UK. During the conference, we presented our findings on topology-enhanced machine learning for speech recognition through a poster session, showcasing their work to more than 150 experts and scholars from around the world.
