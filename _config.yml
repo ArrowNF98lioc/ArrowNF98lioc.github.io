@@ -24,11 +24,11 @@ author:
   avatar           : https://arrownf98lioc.github.io/assets/qyh_profile.png
   name             : "Yuhe Qin"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Mathematics undergraduate exploring applications in computational topology and beyond."
   location         : "Shenzhen, Guangdong, China"
   employer         : "Southern University of Science and Technology"
   uri              : # URL
-  email            : "12211057@mail.sustech.edu.cn" 
+  email            : 12211057@mail.sustech.edu.cn
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
